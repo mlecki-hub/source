@@ -5366,7 +5366,7 @@
 "Israel",NA,"2020-04-24",0,261266,"Israel","","",176,"IL","ISR",376,31.5,34.75,1.3,8656000,"Israel",NA,3018.3,3018.3
 "Italy",NA,"2020-04-24",62447,1642356,"Italy","https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale-latest.csv","",212,"IT","ITA",380,40,15,0.9,60462000,"Italy","original latitutde: 42.8333; longitude: 12.8333",2716.3,2716.3
 "Jamaica",NA,"2020-04-24",0,1516,"Jamaica","","",140,"JM","JAM",388,18.25,-77.5,1.3,2961000,"Jamaica",NA,51.2,51.2
-"Japan",NA,"2020-04-24",0,221376,"Japan","","",190,"JP","JPN",392,36,138,1.3,126476000,"Japan",NA,175,175
+"Japan",NA,"2020-04-24",4937,226313,"Japan","https://www.mhlw.go.jp/stf/newpage_11048.html","",190,"JP","JPN",392,36,138,1.3,126476000,"Japan",NA,178.9,178.9
 "Kazakhstan",1,"2020-04-24",11013,164505,"Kazakhstan","https://hls.kz/","",229,"KZ","KAZ",398,48,68,0.9,18777000,"Kazakhstan",NA,876.1,876.1
 "Kenya",NA,"2020-04-24",0,14417,"Kenya","","",63,"KE","KEN",404,1,38,1.3,53771000,"Kenya",NA,26.8,26.8
 "Kosovo",NA,"2020-04-24",518,5890,"Kosovo","http://illyriapress.com/ne-kosove-regjistrohen-edhe-34-raste-te-reja-me-koronavirus/","",262,"XK","XKX",NA,42.6,20.9,0.9,1800000,"Kosovo",NA,327.2,327.2
@@ -5447,7 +5447,7 @@
 "Austria",NA,"2020-04-25",8400,221089,"Austria","https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html","",228,"AT","AUT",40,47.3333,13.3333,0.9,9006000,"Austria",NA,2454.9,2454.9
 "Azerbaijan",NA,"2020-04-25",6069,120479,"Azerbaijan","https://koronavirusinfo.az/az/page/statistika/azerbaycanda-cari-veziyyet","",203,"AZ","AZE",31,40.5,47.5,0.9,10139000,"Azerbaijan",NA,1188.3,1188.3
 "Bahrain",NA,"2020-04-25",5014,110379,"Bahrain","https://www.moh.gov.bh/COVID19","",168,"BH","BHR",48,26,50.55,1.3,1702000,"Bahrain",NA,6485.3,6485.3
-"Bangladesh",NA,"2020-04-25",0,39476,"Bangladesh","","",160,"BD","BGD",50,24,90,1.3,164689000,"Bangladesh",NA,24,24
+"Bangladesh",NA,"2020-04-25",3637,43113,"Bangladesh","https://www.iedcr.gov.bd/","",160,"BD","BGD",50,24,90,1.3,164689000,"Bangladesh",NA,26.2,26.2
 "Barbados",NA,"2020-04-25",0,1222,"Barbados","","",109,"BB","BRB",52,13.1667,-59.5333,1.3,287000,"Barbados",NA,425.8,425.8
 "Belarus",NA,"2020-04-25",9000,139000,"Belarus","https://news.tut.by/society/682288.html","",240,"BY","BLR",112,53,28,0.8,9449000,"Belarus",NA,1471.1,1471.1
 "Belgium",1,"2020-04-25",0,167110,"Belgium","","",236,"BE","BEL",56,50.8333,4,0.8,11590000,"Belgium",NA,1441.8,1441.8
@@ -5476,7 +5476,7 @@
 "Estonia",NA,"2020-04-25",1050,47331,"Estonia","https://koroonakaart.ee/en","",247,"EE","EST",233,59,26,0.8,1327000,"Estonia",NA,3566.8,3566.8
 "Eswatini",NA,"2020-04-25",0,115,"Eswatini","","",261,"SZ","SWZ",748,-26.5,31.5,1.3,1160000,"Eswatini",NA,9.9,9.9
 "Ethiopia",NA,"2020-04-25",0,9771,"Ethiopia","","",84,"ET","ETH",231,8,38,1.3,114964000,"Ethiopia",NA,8.5,8.5
-"Faroe Islands",NA,"2020-04-25",190,6648,"FaroeIslands","https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus","",251,"FO","FRO",234,62,-7,0.6,49000,"FaroeIslands",NA,13567.3,13567.3
+"Faroe Islands",NA,"2020-04-25",0,6458,"FaroeIslands","https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus","",251,"FO","FRO",234,62,-7,0.6,49000,"FaroeIslands",NA,13179.6,13179.6
 "Fiji",NA,"2020-04-25",0,346,"Fiji","","",29,"FJ","FJI",242,-18,175,1.3,896000,"Fiji",NA,38.6,38.6
 "Finland",1,"2020-04-25",3300,77800,"Finland","https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta","",254,"FI","FIN",246,64,26,0.6,5541000,"Finland",NA,1404.1,1404.1
 "France",NA,"2020-04-25",0,365589,"France","","",219,"FR","FRA",250,46,2,0.9,65274000,"France",NA,560.1,560.1
@@ -5489,7 +5489,7 @@
 "Guatemala",NA,"2020-04-25",0,208,"Guatemala","","",127,"GT","GTM",320,15.5,-90.25,1.3,17916000,"Guatemala",NA,1.2,1.2
 "Hong Kong",NA,"2020-04-25",0,131786,"HongKong","","",156,"HK","HKG",344,22.25,114.1667,1.3,7497000,"HongKong",NA,1757.8,1757.8
 "Hungary",NA,"2020-04-25",2550,60801,"Hungary","https://koronavirus.gov.hu/#aktualis","",224,"HU","HUN",348,47,20,0.9,9660000,"Hungary",NA,629.4,629.4
-"Iceland",NA,"2020-04-25",0,160345,"Iceland","","",255,"IS","ISL",352,65,-18,0.6,341000,"Iceland",NA,47022,47022
+"Iceland",NA,"2020-04-25",182,160527,"Iceland","https://www.covid.is/tolulegar-upplysingar","",255,"IS","ISL",352,65,-18,0.6,341000,"Iceland",NA,47075.4,47075.4
 "India",NA,"2020-04-25",38168,579957,"India","https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf","",148,"IN","IND",356,20,77,1.3,1380004000,"India",NA,42,42
 "Indonesia",NA,"2020-04-25",1978,52541,"Indonesia","https://infeksiemerging.kemkes.go.id","",54,"ID","IDN",360,-5,120,1.3,273524000,"Indonesia",NA,19.2,19.2
 "Iran (Islamic Republic of)",NA,"2020-04-25",20568,410075,"Iran","irangov.ir/detail/337989","",177,"IR","IRN",364,32,53,1.3,83993000,"Iran",NA,488.2,488.2
@@ -5497,7 +5497,7 @@
 "Israel",NA,"2020-04-25",0,261266,"Israel","","",176,"IL","ISR",376,31.5,34.75,1.3,8656000,"Israel",NA,3018.3,3018.3
 "Italy",NA,"2020-04-25",65387,1707743,"Italy","https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale-latest.csv","",212,"IT","ITA",380,40,15,0.9,60462000,"Italy","original latitutde: 42.8333; longitude: 12.8333",2824.5,2824.5
 "Jamaica",NA,"2020-04-25",0,1516,"Jamaica","","",140,"JM","JAM",388,18.25,-77.5,1.3,2961000,"Jamaica",NA,51.2,51.2
-"Japan",NA,"2020-04-25",0,221376,"Japan","","",190,"JP","JPN",392,36,138,1.3,126476000,"Japan",NA,175,175
+"Japan",NA,"2020-04-25",0,226313,"Japan","","",190,"JP","JPN",392,36,138,1.3,126476000,"Japan",NA,178.9,178.9
 "Kazakhstan",1,"2020-04-25",15997,180502,"Kazakhstan","https://hls.kz/","",229,"KZ","KAZ",398,48,68,0.9,18777000,"Kazakhstan",NA,961.3,961.3
 "Kenya",NA,"2020-04-25",0,14417,"Kenya","","",63,"KE","KEN",404,1,38,1.3,53771000,"Kenya",NA,26.8,26.8
 "Kosovo",NA,"2020-04-25",292,6182,"Kosovo","illyriapress.com/edhe-28-raste-te-reja-me-covid-19-ne-kosove-gjithsej-731-raste/","",262,"XK","XKX",NA,42.6,20.9,0.9,1800000,"Kosovo",NA,343.4,343.4
@@ -5519,7 +5519,7 @@
 "Netherlands",1,"2020-04-25",0,168745,"Netherlands","","",239,"NL","NLD",528,52.5,5.75,0.8,17135000,"Netherlands",NA,984.8,984.8
 "New Caledonia",NA,"2020-04-25",0,40,"NewCaledonia","","",20,"NC","NCL",540,-21.5,165.5,1.3,285000,"NewCaledonia",NA,14,14
 "New Zealand",NA,"2020-04-25",6777,115015,"NewZealand","https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases","",7,"NZ","NZL",554,-41,174,0.9,4822000,"NewZealand",NA,2385.2,2385.2
-"Nigeria",NA,"2020-04-25",0,10061,"Nigeria","","",95,"NG","NGA",566,10,8,1.3,206140000,"Nigeria",NA,4.9,4.9
+"Nigeria",NA,"2020-04-25",857,10918,"Nigeria","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria","",95,"NG","NGA",566,10,8,1.3,206140000,"Nigeria",NA,5.3,5.3
 "North Macedonia",NA,"2020-04-25",0,11870,"NorthMacedonia","","",207,"MK","MKD",807,41.8333,22,0.9,2083000,"NorthMacedonia",NA,569.9,569.9
 "Norway",NA,"2020-04-25",0,155125,"Norway","","",252,"NO","NOR",578,62,10,0.6,5421000,"Norway",NA,2861.6,2861.6
 "Occupied Palestinian Territory",NA,"2020-04-25",0,27800,"occupiedPalestinianterritory","","",179,"PS","PSE",275,32,35.25,1.3,5101000,"occupiedPalestinianterritory",NA,545,545
@@ -5544,7 +5544,7 @@
 "Seychelles",NA,"2020-04-25",0,16,"Seychelles","","",55,"SC","SYC",690,-4.5833,55.6667,1.3,98000,"Seychelles",NA,16.3,16.3
 "Singapore",NA,"2020-04-25",26978,121774,"Singapore","https://www.moh.gov.sg/covid-19","",66,"SG","SGP",702,1.3667,103.8,1.3,5850000,"Singapore",NA,2081.6,2081.6
 "Slovakia",NA,"2020-04-25",4828,66089,"Slovakia","https://www.korona.gov.sk","",230,"SK","SVK",703,48.6667,19.5,0.9,5460000,"Slovakia",NA,1210.4,1210.4
-"Slovenia",1,"2020-04-25",0,48179,"Slovenia","","",222,"SI","SVN",705,46,15,0.9,2079000,"Slovenia",NA,2317.4,2317.4
+"Slovenia",1,"2020-04-25",1634,49813,"Slovenia","https://www.nijz.si/sl/dnevno-spremljanje-okuzb-s-sars-cov-2-covid-19/","",222,"SI","SVN",705,46,15,0.9,2079000,"Slovenia",NA,2396,2396
 "South Africa",NA,"2020-04-25",8614,161004,"SouthAfrica","https://www.nicd.ac.za/","",13,"ZA","ZAF",710,-29,24,1.3,59309000,"SouthAfrica",NA,271.5,271.5
 "Spain",1,"2020-04-25",0,930230,"Spain",NA,"",201,"ES","ESP",724,40,-4,0.9,46755000,"Spain",NA,1989.6,1989.6
 "Sri Lanka",NA,"2020-04-25",0,2082,"SriLanka","","",81,"LK","LKA",144,7,81,1.3,21413000,"SriLanka",NA,9.7,9.7
@@ -5558,7 +5558,7 @@
 "Tunisia",NA,"2020-04-25",0,18861,"Tunisia","","",184,"TN","TUN",788,34,9,1.3,11819000,"Tunisia",NA,159.6,159.6
 "Turkey",1,"2020-04-25",38308,868565,"Turkey","https://twitter.com/drfahrettinkoca/status/1254080782794178561","",197,"TR","TUR",792,39,35,1,84339000,"Turkey",NA,1029.8,1029.8
 "Uganda",NA,"2020-04-25",1408,20329,"Uganda","https://covid19.gou.go.ug","",65,"UG","UGA",800,1,32,1.3,45741000,"Uganda",NA,44.4,44.4
-"UK",NA,"2020-04-25",0,640792,"UnitedKingdom","","",242,"GB","GBR",826,54,-2,0.8,67886000,"UnitedKingdom",NA,943.9,943.9
+"UK",NA,"2020-04-25",29058,669850,"UnitedKingdom","","",242,"GB","GBR",826,54,-2,0.8,67886000,"UnitedKingdom",NA,986.7,986.7
 "Ukraine",NA,"2020-04-25",1451,23969,"Ukraine","https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-","",231,"UA","UKR",804,49,32,0.9,43734000,"Ukraine",NA,54.8,54.8
 "United Arab Emirates",NA,"2020-04-25",0,789095,"UnitedArabEmirates","","",161,"AE","ARE",784,24,54,1.3,9890000,"UnitedArabEmirates",NA,7978.7,7978.7
 "Uruguay",NA,"2020-04-25",0,13296,"Uruguay","","",9,"UY","URY",858,-33,-56,1.3,3474000,"Uruguay",NA,382.7,382.7
@@ -5568,3 +5568,134 @@
 "Vietnam",NA,"2020-04-25",22889,212142,"Vietnam","https://ncov.moh.gov.vn/?fbclid=IwAR1JDjulr5Ni19WcUWqQqugrEN7Ta6HcGEMqEhdgzifWiSGlIxwknKr9VuU","",131,"VN","VNM",704,16,106,1.3,97339000,"Vietnam",NA,217.9,217.9
 "Zambia",NA,"2020-04-25",0,700,"Zambia","","",35,"ZM","ZMB",894,-15,30,1.3,18384000,"Zambia",NA,3.8,3.8
 "Zimbabwe",NA,"2020-04-25",0,3334,"Zimbabwe","","",26,"ZW","ZWE",716,-20,30,1.3,14863000,"Zimbabwe",NA,22.4,22.4
+"Afghanistan",NA,"2020-04-26",0,4470,"Afghanistan","","",181,"AF","AFG",4,33,65,1.3,38928000,"Afghanistan",NA,11.5,11.5
+"Albania",NA,"2020-04-26",264,7279,"Albania","https://new.shendetesia.gov.al/","",204,"AL","ALB",8,41,20,0.9,2878000,"Albania",NA,252.9,252.9
+"Angola",NA,"2020-04-26",0,231,"Angola","","",41,"AO","AGO",24,-12.5,18.5,1.3,32866000,"Angola",NA,0.7,0.7
+"Antigua and Barbuda",NA,"2020-04-26",0,57,"AntiguaandBarbuda","","",135,"AG","ATG",28,17.05,-61.8,1.3,98000,"AntiguaandBarbuda",NA,58.2,58.2
+"Argentina",NA,"2020-04-26",2499,49905,"Argentina","https://www.argentina.gob.ar/coronavirus/informe-diario","",8,"AR","ARG",32,-34,-64,1.3,45196000,"Argentina",NA,110.4,110.4
+"Armenia",1,"2020-04-26",589,17931,"Armenia","https://ncdc.am/coronavirus/confirmed-cases-by-days/","",199,"AM","ARM",51,40,45,0.9,2963000,"Armenia",NA,605.2,605.2
+"Australia",NA,"2020-04-26",0,482420,"Australia","","",14,"AU","AUS",36,-27,133,1.3,25500000,"Australia",NA,1891.8,1891.8
+"Austria",NA,"2020-04-26",6542,227631,"Austria","https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html","",228,"AT","AUT",40,47.3333,13.3333,0.9,9006000,"Austria",NA,2527.5,2527.5
+"Azerbaijan",NA,"2020-04-26",0,120479,"Azerbaijan","","",203,"AZ","AZE",31,40.5,47.5,0.9,10139000,"Azerbaijan",NA,1188.3,1188.3
+"Bahrain",NA,"2020-04-26",3731,114110,"Bahrain","https://www.moh.gov.bh/COVID19","",168,"BH","BHR",48,26,50.55,1.3,1702000,"Bahrain",NA,6704.5,6704.5
+"Bangladesh",NA,"2020-04-26",3476,46589,"Bangladesh","https://www.iedcr.gov.bd/","",160,"BD","BGD",50,24,90,1.3,164689000,"Bangladesh",NA,28.3,28.3
+"Barbados",NA,"2020-04-26",0,1222,"Barbados","","",109,"BB","BRB",52,13.1667,-59.5333,1.3,287000,"Barbados",NA,425.8,425.8
+"Belarus",NA,"2020-04-26",0,139000,"Belarus","","",240,"BY","BLR",112,53,28,0.8,9449000,"Belarus",NA,1471.1,1471.1
+"Belgium",1,"2020-04-26",0,167110,"Belgium","","",236,"BE","BEL",56,50.8333,4,0.8,11590000,"Belgium",NA,1441.8,1441.8
+"Belize",NA,"2020-04-26",0,13,"Belize","","",136,"BZ","BLZ",84,17.25,-88.75,1.3,398000,"Belize",NA,3.3,3.3
+"Bhutan",NA,"2020-04-26",0,9475,"Bhutan","https://bhutanfound.org/covid-19-coronavirus/","",170,"BT","BTN",64,27.5,90.5,1.3,772000,"Bhutan",NA,1227.3,1227.3
+"Bolivia",NA,"2020-04-26",0,5024,"Bolivia","","",30,"BO","BOL",68,-17,-65,1.3,11673000,"Bolivia",NA,43,43
+"Bosnia and Herzegovina",NA,"2020-04-26",1011,14941,"BosniaandHerzegovina","https://covid-19.ba/","",216,"BA","BIH",70,44,18,0.9,3281000,"BosniaandHerzegovina",NA,455.4,455.4
+"Botswana",NA,"2020-04-26",0,3115,"Botswana","","",18,"BW","BWA",72,-22,24,1.3,2352000,"Botswana",NA,132.4,132.4
+"Brazil",1,"2020-04-26",0,132467,"Brazil",NA,"",45,"BR","BRA",76,-10,-55,1.3,212559000,"Brazil",NA,62.3,62.3
+"Brunei",NA,"2020-04-26",211,12981,"Brunei","https://thescoop.co/2020/04/04/covid-19-live-updates-2/","",74,"BN","BRN",96,4.5,114.6667,1.3,437000,"Brunei",NA,2970.5,2970.5
+"Bulgaria",NA,"2020-04-26",0,26417,"Bulgaria","","",213,"BG","BGR",100,43,25,0.9,6948000,"Bulgaria",NA,380.2,380.2
+"Burkina Faso",NA,"2020-04-26",0,205,"BurkinaFaso","","",105,"BF","BFA",854,13,-2,1.3,20903000,"BurkinaFaso",NA,1,1
+"Cambodia",NA,"2020-04-26",0,5768,"Cambodia","","",106,"KH","KHM",116,13,105,1.3,16719000,"Cambodia",NA,34.5,34.5
+"Canada",NA,"2020-04-26",22105,691663,"Canada","https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?topic=tilelink","",248,"CA","CAN",124,60,-95,0.6,37742000,"Canada",NA,1832.6,1832.6
+"Chile",NA,"2020-04-26",0,108891,"Chile","","",10,"CL","CHL",152,-30,-71,1.3,19116000,"Chile",NA,569.6,569.6
+"Colombia",NA,"2020-04-26",3068,81146,"Colombia","https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx","",71,"CO","COL",170,4,-72,1.3,50883000,"Colombia",NA,159.5,159.5
+"Costa Rica",NA,"2020-04-26",124,12581,"CostaRica","https://twitter.com/msaludcr/status/1254491040737824771/photo/1","",94,"CR","CRI",188,10,-84,1.3,5094000,"CostaRica",NA,247,247
+"Croatia",NA,"2020-04-26",709,31622,"Croatia","https://www.koronavirus.hr/najnovije/ukupno-dosad-382-zarazene-osobe-u-hrvatskoj/35","",218,"HR","HRV",191,45.1667,15.5,0.9,4105000,"Croatia",NA,770.3,770.3
+"Cuba",NA,"2020-04-26",0,37991,"Cuba","","",151,"CU","CUB",192,21.5,-80,1.3,11327000,"Cuba",NA,335.4,335.4
+"Czech Republic",NA,"2020-04-26",4411,215116,"Czechia","https://onemocneni-aktualne.mzcr.cz/covid-19","",234,"CZ","CZE",203,49.75,15.5,0.9,10709000,"Czechia",NA,2008.7,2008.7
+"Denmark",NA,"2020-04-26",10177,146915,"Denmark","https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus","",244,"DK","DNK",208,56,10,0.8,5792000,"Denmark",NA,2536.5,2536.5
+"Dominican Republic",NA,"2020-04-26",0,378,"DominicanRepublic","","",144,"DO","DOM",214,19,-70.6667,1.3,10848000,"DominicanRepublic",NA,3.5,3.5
+"Ecuador",NA,"2020-04-26",0,34840,"Ecuador","","",57,"EC","ECU",218,-2,-77.5,1.3,17643000,"Ecuador",NA,197.5,197.5
+"Egypt",NA,"2020-04-26",0,55000,"Egypt","","",169,"EG","EGY",818,27,30,1.3,102334000,"Egypt",NA,53.7,53.7
+"El Salvador",NA,"2020-04-26",1263,18686,"ElSalvador","https://covid19.gob.sv/","",115,"SV","SLV",222,13.8333,-88.9167,1.3,6486000,"ElSalvador",NA,288.1,288.1
+"Estonia",NA,"2020-04-26",602,47933,"Estonia","https://koroonakaart.ee/en","",247,"EE","EST",233,59,26,0.8,1327000,"Estonia",NA,3612.1,3612.1
+"Eswatini",NA,"2020-04-26",0,115,"Eswatini","","",261,"SZ","SWZ",748,-26.5,31.5,1.3,1160000,"Eswatini",NA,9.9,9.9
+"Ethiopia",NA,"2020-04-26",0,9771,"Ethiopia","","",84,"ET","ETH",231,8,38,1.3,114964000,"Ethiopia",NA,8.5,8.5
+"Faroe Islands",NA,"2020-04-26",130,6588,"FaroeIslands","https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus","",251,"FO","FRO",234,62,-7,0.6,49000,"FaroeIslands",NA,13444.9,13444.9
+"Fiji",NA,"2020-04-26",0,346,"Fiji","","",29,"FJ","FJI",242,-18,175,1.3,896000,"Fiji",NA,38.6,38.6
+"Finland",1,"2020-04-26",2500,80300,"Finland","https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta","",254,"FI","FIN",246,64,26,0.6,5541000,"Finland",NA,1449.2,1449.2
+"France",NA,"2020-04-26",0,365589,"France","","",219,"FR","FRA",250,46,2,0.9,65274000,"France",NA,560.1,560.1
+"Gabon",NA,"2020-04-26",0,632,"Gabon","","",60,"GA","GAB",266,-1,11.75,1.3,2226000,"Gabon",NA,28.4,28.4
+"Germany",NA,"2020-04-26",0,2072669,"Germany","","",237,"DE","DEU",276,51,9,0.8,83784000,"Germany",NA,2473.8,2473.8
+"Ghana",NA,"2020-04-26",0,14611,"Ghana","","",85,"GH","GHA",288,8,-2,1.3,31073000,"Ghana",NA,47,47
+"Greece",NA,"2020-04-26",1521,64608,"Greece","https://eody.gov.gr/anakoinosi-gia-tin-exelixi-tis-nosoy-covid-19-sti-chora-mas-3/","",195,"GR","GRC",300,39,22,1,10423000,"Greece",NA,619.9,619.9
+"Greenland",NA,"2020-04-26",0,1200,"Greenland","https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus","",256,"GL","GRL",304,72,-40,0.6,57000,"Greenland",NA,2105.3,2105.3
+"Grenada",NA,"2020-04-26",0,92,"Grenada","","",102,"GD","GRD",308,12.1167,-61.6667,1.3,113000,"Grenada",NA,81.4,81.4
+"Guatemala",NA,"2020-04-26",0,208,"Guatemala","","",127,"GT","GTM",320,15.5,-90.25,1.3,17916000,"Guatemala",NA,1.2,1.2
+"Hong Kong",NA,"2020-04-26",0,131786,"HongKong","","",156,"HK","HKG",344,22.25,114.1667,1.3,7497000,"HongKong",NA,1757.8,1757.8
+"Hungary",NA,"2020-04-26",2704,63505,"Hungary","https://koronavirus.gov.hu/#aktualis","",224,"HU","HUN",348,47,20,0.9,9660000,"Hungary",NA,657.4,657.4
+"Iceland",NA,"2020-04-26",0,160527,"Iceland","","",255,"IS","ISL",352,65,-18,0.6,341000,"Iceland",NA,47075.4,47075.4
+"India",NA,"2020-04-26",45352,625309,"India","https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_26Apr2020_9AM_IST.pdf","",148,"IN","IND",356,20,77,1.3,1380004000,"India",NA,45.3,45.3
+"Indonesia",NA,"2020-04-26",4433,56974,"Indonesia","https://infeksiemerging.kemkes.go.id","",54,"ID","IDN",360,-5,120,1.3,273524000,"Indonesia",NA,20.8,20.8
+"Iran (Islamic Republic of)",NA,"2020-04-26",0,410075,"Iran","","",177,"IR","IRN",364,32,53,1.3,83993000,"Iran",NA,488.2,488.2
+"Ireland",1,"2020-04-26",0,111584,"Ireland","","",241,"IE","IRL",372,53,-8,0.8,4938000,"Ireland",NA,2259.7,2259.7
+"Israel",NA,"2020-04-26",0,261266,"Israel","","",176,"IL","ISR",376,31.5,34.75,1.3,8656000,"Israel",NA,3018.3,3018.3
+"Italy",NA,"2020-04-26",49916,1757659,"Italy","https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale-latest.csv","",212,"IT","ITA",380,40,15,0.9,60462000,"Italy","original latitutde: 42.8333; longitude: 12.8333",2907,2907
+"Jamaica",NA,"2020-04-26",0,1516,"Jamaica","","",140,"JM","JAM",388,18.25,-77.5,1.3,2961000,"Jamaica",NA,51.2,51.2
+"Japan",NA,"2020-04-26",0,226313,"Japan","","",190,"JP","JPN",392,36,138,1.3,126476000,"Japan",NA,178.9,178.9
+"Kazakhstan",1,"2020-04-26",15796,196298,"Kazakhstan","https://hls.kz/","",229,"KZ","KAZ",398,48,68,0.9,18777000,"Kazakhstan",NA,1045.4,1045.4
+"Kenya",NA,"2020-04-26",0,14417,"Kenya","","",63,"KE","KEN",404,1,38,1.3,53771000,"Kenya",NA,26.8,26.8
+"Kosovo",NA,"2020-04-26",0,6182,"Kosovo","","",262,"XK","XKX",NA,42.6,20.9,0.9,1800000,"Kosovo",NA,343.4,343.4
+"Kyrgyzstan",NA,"2020-04-26",0,29550,"Kyrgyzstan","","",205,"KG","KGZ",417,41,75,0.9,6524000,"Kyrgyzstan",NA,452.9,452.9
+"Lao People's Democratic Republic",1,"2020-04-26",0,53,"LaoPeople'sDemocraticRepublic",NA,"",138,"LA","LAO",418,18,105,1.3,7276000,"Laos",NA,0.7,0.7
+"Latvia",NA,"2020-04-26",1928,47671,"Latvia","https://twitter.com/SPKCentrs","",246,"LV","LVA",428,57,25,0.8,1886000,"Latvia",NA,2527.6,2527.6
+"Lithuania",NA,"2020-04-26",5540,104488,"Lithuania","https://sam.lrv.lt/lt/naujienos/koronavirusas","",245,"LT","LTU",440,56,24,0.8,2722000,"Lithuania",NA,3838.6,3838.6
+"Luxembourg",NA,"2020-04-26",489,39003,"Luxembourg","https://msan.gouvernement.lu/en/dossiers/2020/corona-virus.html","",235,"LU","LUX",442,49.75,6.1667,0.9,626000,"Luxembourg",NA,6230.5,6230.5
+"Mainland China",NA,"2020-04-26",0,320000,"China","","",185,"CN","CHN",156,35,105,1.3,1439324000,"China",NA,22.2,22.2
+"Malaysia",NA,"2020-04-26",4521,131491,"Malaysia","www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan","",69,"MY","MYS",458,2.5,112.5,1.3,32366000,"Malaysia",NA,406.3,406.3
+"Malta",1,"2020-04-26",0,25645,"Malta","","",189,"MT","MLT",470,35.8333,14.5833,1.3,442000,"Malta",NA,5802,5802
+"Mauritania",NA,"2020-04-26",0,713,"Mauritania","","",149,"MR","MRT",478,20,-12,1.3,4650000,"Mauritania",NA,15.3,15.3
+"Mexico",1,"2020-04-26",0,49570,"Mexico","","",157,"MX","MEX",484,23,-102,1.3,128933000,"Mexico",NA,38.4,38.4
+"Morocco",NA,"2020-04-26",1956,27399,"Morocco","http://covidmaroc.ma/pages/Accueil.aspx","",178,"MA","MAR",504,32,-5,1.3,36911000,"Morocco",NA,74.2,74.2
+"Mozambique",NA,"2020-04-26",0,19,"Mozambique","","",28,"MZ","MOZ",508,-18.25,35,1.3,31255000,"Mozambique",NA,0.1,0.1
+"Myanmar",NA,"2020-04-26",0,5774,"Myanmar","","",154,"MM","MMR",104,22,98,1.3,54410000,"Myanmar",NA,10.6,10.6
+"Namibia",NA,"2020-04-26",0,24,"Namibia","","",19,NA,"NAM",516,-22,17,1.3,2541000,"Namibia",NA,0.9,0.9
+"Nepal",NA,"2020-04-26",265,9931,"Nepal","https://covid19.ndrrma.gov.np/","",172,"NP","NPL",524,28,84,1.3,29137000,"Nepal",NA,34.1,34.1
+"Netherlands",1,"2020-04-26",0,168745,"Netherlands","","",239,"NL","NLD",528,52.5,5.75,0.8,17135000,"Netherlands",NA,984.8,984.8
+"New Caledonia",NA,"2020-04-26",0,40,"NewCaledonia","","",20,"NC","NCL",540,-21.5,165.5,1.3,285000,"NewCaledonia",NA,14,14
+"New Zealand",NA,"2020-04-26",5966,120981,"NewZealand","https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases","",7,"NZ","NZL",554,-41,174,0.9,4822000,"NewZealand",NA,2508.9,2508.9
+"Nigeria",NA,"2020-04-26",0,10918,"Nigeria","","",95,"NG","NGA",566,10,8,1.3,206140000,"Nigeria",NA,5.3,5.3
+"North Macedonia",NA,"2020-04-26",0,11870,"NorthMacedonia","","",207,"MK","MKD",807,41.8333,22,0.9,2083000,"NorthMacedonia",NA,569.9,569.9
+"Norway",NA,"2020-04-26",0,155125,"Norway","","",252,"NO","NOR",578,62,10,0.6,5421000,"Norway",NA,2861.6,2861.6
+"Occupied Palestinian Territory",NA,"2020-04-26",0,27800,"occupiedPalestinianterritory","","",179,"PS","PSE",275,32,35.25,1.3,5101000,"occupiedPalestinianterritory",NA,545,545
+"Pakistan",NA,"2020-04-26",6218,144365,"Pakistan","http://covid.gov.pk/","",174,"PK","PAK",586,30,70,1.3,220892000,"Pakistan",NA,65.4,65.4
+"Panama",NA,"2020-04-26",0,20137,"Panama","","",92,"PA","PAN",591,9,-80,1.3,4315000,"Panama",NA,466.7,466.7
+"Papua New Guinea",NA,"2020-04-26",0,85,"PapuaNewGuinea","","",52,"PG","PNG",598,-6,147,1.3,8947000,"PapuaNewGuinea",NA,1,1
+"Paraguay",NA,"2020-04-26",0,6598,"Paraguay","","",17,"PY","PRY",600,-23,-58,1.3,7133000,"Paraguay",NA,92.5,92.5
+"Peru",NA,"2020-04-26",0,170400,"Peru","","",46,"PE","PER",604,-10,-76,1.3,32972000,"Peru",NA,516.8,516.8
+"Philippines",NA,"2020-04-26",0,76956,"Philippines","","",108,"PH","PHL",608,13,122,1.3,109581000,"Philippines",NA,70.2,70.2
+"Poland",NA,"2020-04-26",11639,290633,"Poland","https://twitter.com/MZ_GOV_PL/status/1254372149583847424","",238,"PL","POL",616,52,20,0.8,37847000,"Poland",NA,767.9,767.9
+"Portugal",NA,"2020-04-26",0,330512,"Portugal","","",198,"PT","PRT",620,39.5,-8,1,10197000,"Portugal",NA,3241.3,3241.3
+"Puerto Rico",NA,"2020-04-26",0,11633,"PuertoRico","","",141,"PR","PRI",630,18.25,-66.5,1.3,2861000,"PuertoRico",NA,406.6,406.6
+"Qatar",NA,"2020-04-26",2584,82289,"Qatar","https://www.moph.gov.qa/english/Pages/Coronavirus2019.aspx#","",167,"QA","QAT",634,25.5,51.25,1.3,2881000,"Qatar",NA,2856.3,2856.3
+"Republic of Korea",NA,"2020-04-26",3124,598285,"RepublicofKorea","http://ncov.mohw.go.kr/en/","",193,"KR","KOR",410,37,127.5,1,51269000,"RepublicofKorea",NA,1167,1167
+"Romania",NA,"2020-04-26",9873,136518,"Romania","https://www.mai.gov.ro/informare-covid-19-grupul-de-comunicare-strategica-26-aprilie-2020-ora-13-00/","",221,"RO","ROU",642,46,25,0.9,19238000,"Romania",NA,709.6,709.6
+"Russia",NA,"2020-04-26",0,2552000,"Russia","","",249,"RU","RUS",643,60,100,0.6,145934000,"Russia",NA,1748.7,1748.7
+"Rwanda",NA,"2020-04-26",0,13468,"Rwanda","","",58,"RW","RWA",646,-2,30,1.3,12952000,"Rwanda",NA,104,104
+"Saint Martin",NA,"2020-04-26",0,163,"SaintMartin","","",258,"MF","MAF",663,18.07,-63.05,1.3,39000,"SaintMartin",NA,417.9,417.9
+"Saudi Arabia",1,"2020-04-26",0,3500,"SaudiArabia","","",166,"SA","SAU",682,25,45,1.3,34814000,"SaudiArabia",NA,10.1,10.1
+"Senegal",NA,"2020-04-26",579,8357,"Senegal","http://www.sante.gouv.sn/sites/default/files/Communiqu_%20N%C2%8D31%20du%2001%20avril%202020.pdf","",117,"SN","SEN",686,14,-14,1.3,16744000,"Senegal",NA,49.9,49.9
+"Serbia",NA,"2020-04-26",4365,64303,"Serbia","https://www.zdravlje.gov.rs/vest/347164/informacija-o-novom-korona-virusu-na-dan-2604-godine-u-15-casova.php","",217,"RS","SRB",688,44,21,0.9,8737000,"Serbia",NA,736,736
+"Seychelles",NA,"2020-04-26",0,16,"Seychelles","","",55,"SC","SYC",690,-4.5833,55.6667,1.3,98000,"Seychelles",NA,16.3,16.3
+"Singapore",NA,"2020-04-26",0,121774,"Singapore","","",66,"SG","SGP",702,1.3667,103.8,1.3,5850000,"Singapore",NA,2081.6,2081.6
+"Slovakia",NA,"2020-04-26",4839,70928,"Slovakia","https://www.korona.gov.sk","",230,"SK","SVK",703,48.6667,19.5,0.9,5460000,"Slovakia",NA,1299,1299
+"Slovenia",1,"2020-04-26",0,49813,"Slovenia","","",222,"SI","SVN",705,46,15,0.9,2079000,"Slovenia",NA,2396,2396
+"South Africa",NA,"2020-04-26",7639,168643,"SouthAfrica","https://www.nicd.ac.za/","",13,"ZA","ZAF",710,-29,24,1.3,59309000,"SouthAfrica",NA,284.3,284.3
+"Spain",1,"2020-04-26",0,930230,"Spain",NA,"",201,"ES","ESP",724,40,-4,0.9,46755000,"Spain",NA,1989.6,1989.6
+"Sri Lanka",NA,"2020-04-26",0,2082,"SriLanka","","",81,"LK","LKA",144,7,81,1.3,21413000,"SriLanka",NA,9.7,9.7
+"Sweden",NA,"2020-04-26",0,94500,"Sweden","","",253,"SE","SWE",752,62,15,0.6,10099000,"Sweden",NA,935.7,935.7
+"Switzerland",1,"2020-04-26",4350,249650,"Switzerland","https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html","",226,"CH","CHE",756,47,8,0.9,8655000,"Switzerland",NA,2884.5,2884.5
+"Taiwan",NA,"2020-04-26",497,60956,"Taiwan","https://www.cdc.gov.tw/En","",158,"TW","TWN",158,23.5,121,1.3,23817000,"Taiwan",NA,255.9,255.9
+"Tajikistan",NA,"2020-04-26",0,700,"Tajikistan","","",196,"TJ","TJK",762,39,71,1,9538000,"Tajikistan",NA,7.3,7.3
+"Thailand",NA,"2020-04-26",1544,53238,"Thailand","https://ddc.moph.go.th/viralpneumonia/eng/index.php","",123,"TH","THA",764,15,100,1.3,69800000,"Thailand",NA,76.3,76.3
+"The Gambia",NA,"2020-04-26",0,244,"TheGambia","","",113,"GM","GMB",270,13.4667,-16.5667,1.3,2417000,"TheGambia",NA,10.1,10.1
+"Trinidad and Tobago",NA,"2020-04-26",13,1514,"TrinidadandTobago","http://www.health.gov.tt/sitepages/default.aspx?id=293","",99,"TT","TTO",780,11,-61,1.3,1399000,"TrinidadandTobago",NA,108.2,108.2
+"Tunisia",NA,"2020-04-26",0,18861,"Tunisia","","",184,"TN","TUN",788,34,9,1.3,11819000,"Tunisia",NA,159.6,159.6
+"Turkey",1,"2020-04-26",21177,889742,"Turkey","https://twitter.com/drfahrettinkoca/status/1254446418145808384","",197,"TR","TUR",792,39,35,1,84339000,"Turkey",NA,1055,1055
+"Uganda",NA,"2020-04-26",0,20329,"Uganda","","",65,"UG","UGA",800,1,32,1.3,45741000,"Uganda",NA,44.4,44.4
+"UK",NA,"2020-04-26",0,669850,"UnitedKingdom","","",242,"GB","GBR",826,54,-2,0.8,67886000,"UnitedKingdom",NA,986.7,986.7
+"Ukraine",NA,"2020-04-26",0,23969,"Ukraine","","",231,"UA","UKR",804,49,32,0.9,43734000,"Ukraine",NA,54.8,54.8
+"United Arab Emirates",NA,"2020-04-26",0,789095,"UnitedArabEmirates","","",161,"AE","ARE",784,24,54,1.3,9890000,"UnitedArabEmirates",NA,7978.7,7978.7
+"Uruguay",NA,"2020-04-26",0,13296,"Uruguay","","",9,"UY","URY",858,-33,-56,1.3,3474000,"Uruguay",NA,382.7,382.7
+"USA",NA,"2020-04-26",0,5184635,"US","","",194,"US","USA",840,38,-97,1,331003000,"US",NA,1566.3,1566.3
+"Uzbekistan",NA,"2020-04-26",0,22150,"Uzbekistan","","",206,"UZ","UZB",860,41,64,0.9,33469000,"Uzbekistan",NA,66.2,66.2
+"Venezuela",NA,"2020-04-26",0,1779,"Venezuela","","",88,"VE","VEN",862,8,-66,1.3,28436000,"Venezuela",NA,6.3,6.3
+"Vietnam",NA,"2020-04-26",823,212965,"Vietnam","https://ncov.moh.gov.vn/?fbclid=IwAR1JDjulr5Ni19WcUWqQqugrEN7Ta6HcGEMqEhdgzifWiSGlIxwknKr9VuU","",131,"VN","VNM",704,16,106,1.3,97339000,"Vietnam",NA,218.8,218.8
+"Zambia",NA,"2020-04-26",0,700,"Zambia","","",35,"ZM","ZMB",894,-15,30,1.3,18384000,"Zambia",NA,3.8,3.8
+"Zimbabwe",NA,"2020-04-26",0,3334,"Zimbabwe","","",26,"ZW","ZWE",716,-20,30,1.3,14863000,"Zimbabwe",NA,22.4,22.4
